@@ -6,24 +6,21 @@
 
 ## 🙋‍♂️ About Me
 
-- 🔭 I’m currently working on **[Creating My Own OS](https://leanpub.com/OS-DEV)**
+- 🔭 I’m currently working on **[getting better at ctf's]**
 
-- 🌱 I’m currently learning **Pentesting, And Alot More.**
+- 🌱 A quote I love **if you dont secrafise for what you want what you want becomes the sacrifice**
 
 
 - 👨‍💻 All of my projects are available at **[My Portfolio](https://www.crushpixel.com/stock-photo/3d-illustration-website-work-progress-2876773.html)**
 
-- ⚡ Fun fact **I Hate Math**
+- ⚡ Fun fact **I love math! but i'm very bad at it**
 
 ## 🚀 Languages and Tools:
 
 <p align="left"> 
     <img src="https://img.icons8.com/color/48/000000/python.png"/></a>
     <img src="https://img.icons8.com/color/344/c-programming.png"/ width = 48></a>
-    <img src="https://img.icons8.com/plasticine/344/bash.png"/ width = 48></a>
-    <a href="https://git-scm.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/git.png"/> </a> 
-    <img src="https://img.icons8.com/color/344/linux--v1.png"/ width = 48></a>
-    <img src="<img src="https://img.icons8.com/color/48/undefined/ubuntu--v1.png"/>"/ width = 48 height = 48>  </a>
+    <img src="https://img.icons8.com/color/48/undefined/ubuntu--v1.png"/ width = 48 height = 48></a>
     
     
 </p>
