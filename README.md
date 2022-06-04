@@ -6,7 +6,7 @@
 
 ## 🙋‍♂️ About Me
 
-- 🔭 I’m currently working on **[getting better at ctf's]**
+- 🔭 I’m currently working on **getting better at ctf's**
 
 - 🌱 A quote I love **if you dont secrafise for what you want what you want becomes the sacrifice**
 
