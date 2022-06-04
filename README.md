@@ -23,7 +23,7 @@
     <img src="https://img.icons8.com/plasticine/344/bash.png"/ width = 48></a>
     <a href="https://git-scm.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/git.png"/> </a> 
     <img src="https://img.icons8.com/color/344/linux--v1.png"/ width = 48></a>
-    <img src="https://img.icons8.com/color/344/kali-linux.png"/ width = 48 height = 48>  </a>
+    <img src="<img src="https://img.icons8.com/color/48/undefined/ubuntu--v1.png"/>"/ width = 48 height = 48>  </a>
     
     
 </p>
@@ -51,7 +51,7 @@
 ## Connect with me:
 <p align="left">
 
-<p style="color:#9fef00;"><b>Ｍalik#8715</p>
+<p style="color:#9fef00;"><b>Yoran Malik#8715</p>
 <img src="https://img.icons8.com/color/48/000000/discord--v2.png"/></a> 
 
 </p>
