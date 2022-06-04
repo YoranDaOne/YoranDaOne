@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on **getting better at ctf's**
 
-- 🌱 A quote I love **if you dont secrafise for what you want what you want becomes the sacrifice**
+- 🌱 A quote I love: **if you dont secrafise for what you want what you want becomes the sacrifice**
 
 
 - 👨‍💻 All of my projects are available at **[My Portfolio](https://www.crushpixel.com/stock-photo/3d-illustration-website-work-progress-2876773.html)**
